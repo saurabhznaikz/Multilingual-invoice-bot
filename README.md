@@ -2,7 +2,7 @@
 This system helps user to ask any question related to invoice provided by the user
 
 
-![invoice extractor](https://github.com/saurabhznaikz/Multilingual-invoice-bot/assets/52929512/5e5d9575-b79c-4d83-a3de-2e53de9db6d8)
+![invoice extractor](https://github.com/saurabhznaikz/Multilingual-invoice-bot/blob/main/invoice%20extractor%20better.gif)
 
 ## Installation
 
